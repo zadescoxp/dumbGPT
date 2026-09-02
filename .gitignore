@@ -1,0 +1,4 @@
+.env
+dataset
+venv
+*.DS_Store
