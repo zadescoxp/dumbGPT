@@ -1,0 +1,6 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+supabase==2.11.0
+python-dotenv==1.0.1
+torch>=2.5.0
+tokenizers>=0.21.0
