@@ -1,6 +1,6 @@
 # 🧠 microGPT (dumbGPT)
 
-> A Decoder-Only Language Model built from scratch — from raw Wikipedia text processing and custom Byte-Pair Encoding (BPE) tokenization, to Transformer architecture design, training on Google Colab, and deployment with a FastAPI backend & Next.js frontend UI.
+> **A complete DIY Large Language Model from scratch.** Download, train on Google Colab, and run your own custom 22M parameter LLM with a FastAPI backend and Next.js chat UI.
 
 ---
 
