@@ -4,15 +4,11 @@
 
 ---
 
-## 🎬 Demo Video & Screenshots
+## 🎬 Demo Video Preview
 
-<video src="images/dumbGPT-video.mp4" controls="controls" width="100%" style="max-height: 500px;">
-  Your browser does not support the video tag.
-</video>
+![dumbGPT Demo Preview](images/dumbGPT-demo.gif)
 
-*Direct link to video: [`images/dumbGPT-video.mp4`](images/dumbGPT-video.mp4)*
-
-### Interface Preview
+### Interface Screenshots
 
 | Homepage | Sidebar & Chat History | Active Chat |
 | :---: | :---: | :---: |
